@@ -36,7 +36,7 @@ function Dashboard() {
     cursor: "pointer"
   }}
 >
-  + Añadir mantenimiento
+  mantenimiento
 </button>
 
 
@@ -120,7 +120,7 @@ function Manual() {
     <div className="main">
 
       <h1 className="title">
-        Manual Interactivo
+        Manual Taller
       </h1>
 
       <input
